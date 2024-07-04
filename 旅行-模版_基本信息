@@ -1,0 +1,481 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>旅行-模版_基本信息 | Rui's Zone</title><meta name="keywords" content="生活"><meta name="author" content="Rui's,banxiangrui@126.com"><meta name="copyright" content="Rui's"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="生活">
+<meta property="og:type" content="article">
+<meta property="og:title" content="旅行-模版_基本信息">
+<meta property="og:url" content="https://ruilearning.github.io/%E6%97%85%E8%A1%8C-%E6%A8%A1%E7%89%88_%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF">
+<meta property="og:site_name" content="Rui&#39;s Zone">
+<meta property="og:description" content="生活">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://ruilearning.github.io/img/travel200.jpg">
+<meta property="article:published_time" content="2024-01-29T04:15:08.000Z">
+<meta property="article:modified_time" content="2024-07-04T07:48:52.578Z">
+<meta property="article:author" content="Rui&#39;s">
+<meta property="article:tag" content="生活">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://ruilearning.github.io/img/travel200.jpg"><link rel="shortcut icon" href="/img/ruiruilaile_cycle120X120.png"><link rel="canonical" href="https://ruilearning.github.io/%E6%97%85%E8%A1%8C-%E6%A8%A1%E7%89%88_%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"search.xml","languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: {"defaultEncoding":2,"translateDelay":0,"msgToTraditionalChinese":"繁","msgToSimplifiedChinese":"簡"},
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":50,"languages":{"author":"作者: Rui's","link":"链接: ","source":"来源: Rui's Zone","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery@2/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery@2/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: true,
+  isAnchor: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '旅行-模版_基本信息',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: false,
+  postUpdate: '2024-07-04 15:48:52'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      win.activateDarkMode = function () {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = function () {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+          if (t === 'dark') activateDarkMode()
+          else if (t === 'light') activateLightMode()
+        
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@latest/hexo/css/loading_style_1.css" ><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zyoushuo/Blog@latest/hexo/css/loading_style_2.css" ><meta name="generator" content="Hexo 6.1.0"><link rel="alternate" href="/atom.xml" title="Rui's Zone" type="application/atom+xml">
+</head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src= "/img/loading6.webp" data-lazy-src="/img/ruiruilaile_cycle120X120.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="site-data is-center"><div class="data-item"><a href="/archives/"><div class="headline">文章</div><div class="length-num">108</div></a></div><div class="data-item"><a href="/tags/"><div class="headline">标签</div><div class="length-num">18</div></a></div><div class="data-item"><a href="/categories/"><div class="headline">分类</div><div class="length-num">23</div></a></div></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/navigation/"><i class="fa-fw fas fa-anchor"></i><span> 导航</span></a></div><div class="menus_item"><a class="site-page" href="/artitalk/"><i class="fa-fw fa fa-tree"></i><span> 碎碎念</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('/img/travel200.jpg')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">Rui's Zone</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-compass"></i><span> 目录</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></li><li><a class="site-page child" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></li><li><a class="site-page child" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/navigation/"><i class="fa-fw fas fa-anchor"></i><span> 导航</span></a></div><div class="menus_item"><a class="site-page" href="/artitalk/"><i class="fa-fw fa fa-tree"></i><span> 碎碎念</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">旅行-模版_基本信息</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2024-01-29T04:15:08.000Z" title="发表于 2024-01-29 12:15:08">2024-01-29</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-07-04T07:48:52.578Z" title="更新于 2024-07-04 15:48:52">2024-07-04</time></span><span class="post-meta-categories"><span class="post-meta-separator">|</span><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/live/">live</a><i class="fas fa-angle-right post-meta-separator"></i><i class="fas fa-inbox fa-fw post-meta-icon"></i><a class="post-meta-categories" href="/categories/live/travel/">travel</a></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="旅行-模版_基本信息"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><p>🛫通用国内旅行攻略模板（含各类检查单）</p>
+<p>📝使用指南<br>｜ 快速导航到各页面。<br>｜<br>    主题导航<br>        📇CheckList  | 旅行检查单  旅行全流程检查单<br>        📇CheckList  | 安全检查单  安全事项检查单<br>        📇CheckList  | 物品检查单  行李准备检查单<br>        📇CheckList  | 出发前检查单   出发前检查单<br>        📇CheckList  | ……检查单  其他检查单<br>        💁旅行基本信息（攻略）  旅行攻略及基本信息<br>    标签导航<br>        点击 #APP、公众号或小程序  查看文中提到的APP、公众号或小程序<br>    颜色标记说明<br>        红色文本 强烈建议<br>        绿色文本 参考使用<br>🔊更新日志<br>    2021.09.21新增<br>        伍德氏紫光灯<br>        防偷拍探测仪<br>        安全带切割（破窗）器<br>        设置家用摄像头为全景巡航模式<br>    2021.09.27新增<br>        一次性马桶坐垫<br>        烧水壶<br>    2021.10.28新增<br>        垃圾袋（防吐）<br>📇CheckList  | 旅行检查单<br>    确定旅行意愿<br>    制作旅行攻略（请填写💁旅行基本信息（攻略））<br>    ｜ 可参考马蜂窝<a target="_blank" rel="noopener" href="https://www.mafengwo.cn/">https://www.mafengwo.cn/</a><br>    ｜ 可使用穷游网<a target="_blank" rel="noopener" href="https://www.qyer.com/%E5%88%B6%E4%BD%9C%E8%A1%8C%E7%A8%8B">https://www.qyer.com/制作行程</a><br>    ｜<br>    请假与工作交接、任务安排<br>    提前购买机票（火车票、船票、汽车票……）<br>    ｜ 某些当地交通票建议提前在网上预订，现场买票可能遇到没有票的尴尬，比如：北海-涠洲岛之间的船票。<br>    提前预定酒店（客栈、民俗……）<br>    ｜ 预定客栈、民宿等住宿时，建议提前打电话与老板沟通，是否涉及旅行期间调整房间等情况。<br>    旅行参团（选用）<br>    参照📇CheckList  | 安全检查单进行安全检查<br>    ｜ 建议出发日前1周内<br>    参照📇CheckList  | 物品检查单打包行李<br>    ｜ 建议出发日前1<del>2天<br>    执行📇CheckList  | 出发前检查单<br>    执行📇CheckList  | ……检查单<br>💁旅行基本信息（攻略）<br>    🎏目的地<br>        北海&#x2F;涠洲岛<br>    ⏰旅行时间<br>        2021年7月17日</del>2021年7月21日<br>    💵预算开销<br>        交通<br>            ✈️机票：<br>            🚄火车：<br>            🛳️轮船：<br>            🚗汽车：<br>            ……<br>        停车：<br>        门票：<br>        餐饮：<br>        购物：<br>        ……<br>    ✈️外部交通<br>        工具<br>            #APP、公众号或小程序 使用微信公众号【来游吧官网】 或 来游吧官网【<a target="_blank" rel="noopener" href="https://www.laiu8.cn/%E3%80%91%E7%BD%91%E4%B8%8A%E9%A2%84%E5%AE%9A%E8%88%B9%E7%A5%A8%EF%BC%8C%E5%90%8C%E6%97%B6%E6%9D%A5%E6%B8%B8%E5%90%A7%E5%AE%98%E7%BD%91%E9%A6%96%E9%A1%B5%E7%BB%8F%E5%B8%B8%E4%BC%9A%E5%8F%91%E5%B8%83%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8E%E8%88%AA%E8%B7%AF%E4%BF%A1%E6%81%AF%E7%9A%84%E5%85%AC%E5%91%8A%EF%BC%8C%E6%B3%A8%E6%84%8F%E7%95%99%E6%84%8F%E3%80%82">https://www.laiu8.cn/】网上预定船票，同时来游吧官网首页经常会发布一些关于航路信息的公告，注意留意。</a><br>        票务<br>            7月17日  国航CA0000  *******国际机场T2-北海福成国际机场<br>            7月17日  12:30北海国际客运港-涠洲岛西角码头（北海12）<br>            7月21日  15:30涠洲岛西角码头-北海国际客运港（北海25）<br>            7月21日  国航CA0000 北海福成国际机场-*******国际机场T2<br>    🚌当地交通<br>    ｜ 涉及到公交车等，建议先看支付宝或微信上的乘车码是否支持直接扫码乘车。<br>        电瓶车租赁<br>            北海：智达电动车维修中心【北海市银海区越亚路越亚天赐良园南侧约30米】<br>            涠洲岛：在客栈处租赁或使用支付宝小程序电滴出行，10元&#x2F;小时，1天80元封顶。</p>
+<pre><code>    公交车（可使用支付宝乘车码）
+🏨酒店住宿
+｜ 预定客栈、民宿等住宿时，建议提前打电话与老板沟通，是否涉及旅行期间调整房间等情况。
+｜ 
+    ……
+🍚特色美食
+    ……
+🛍️购物特产
+    ……
+🎫景点门票
+｜ 热门、限流的门票建议提前购买，关注门票优惠政策。
+｜ 
+    涠洲岛上到票
+    景点1  门票  优惠政策
+    景点2
+    ……
+🧭地图导航
+｜ 高德地图对某些小路标识比较清楚。
+    ……
+📑行程安排 #旅行账单 
+    Day1：
+        玩什么，怎么玩……
+        吃什么，在哪吃……
+        花……
+    Day2：
+    Day3：
+    Day4：
+☀️当地天气
+    建议使用工具
+        查台风：《实时台风路径》 #APP、公众号或小程序 
+        查潮汐时间、海上航线预报：微信小程序《海上通洋天气潮汐查询》#APP、公众号或小程序 
+        查天气：《彩云天气》#APP、公众号或小程序 
+        ｜ 只用雷达图
+    Day1  2021/7/17 ~ 晴天
+    Day2  2021/7/18 ~ 多云转小雨
+    Day3  2021/7/19 ~ 晴天
+🦠疫情防控
+｜ 提前了解目的地疫情防控风险等级，了解当地疫情防控政策。
+⚠️注意事项
+    风俗禁忌
+    防坑避雷🍚特色美食🛍️购物特产
+📞紧急联络
+    紧急联系人
+    报警电话
+    旅行社
+    ……
+🏷️行李准备
+    结合旅行目的地、季节、环境、天气等因素，参照📇CheckList  | 物品检查单打包行李。
+</code></pre>
+<p>📇CheckList  | 安全检查单<br>    设置好安卓（或苹果）手机紧急联系人并进行测试<br>    设定网约车APP行程自动分享<br>    向家人、朋友（或紧急联系人）通报出行计划<br>    植物、宠物托管<br>    放置好家中贵重物品<br>    信用卡还款，水、电、气缴费<br>    设置家用摄像头为全景巡航模式<br>📇CheckList  | 物品检查单<br>    💳个人证件<br>    ｜ 重要证件拍照备份，防止证件丢失。<br>        门钥匙<br>        门禁卡<br>        ｜ 可复制到手机上<br>        身份证<br>        驾驶证（电子驾照）<br>        其他证件（学生证等可以享受优惠政策的证件）<br>        银行卡<br>        少量现金<br>        证件照电子版<br>        保险单扫描件<br>    😷疫情防控<br>        通信大数据行程卡<br>        健康码<br>        核酸检测证明<br>        口罩<br>        一次性手套<br>     📱电子设备<br>    ｜ 电子类物品包括充电器、数据线建议放在一起，国内个别机场，安检严格，甚至连充电数据线都要单独看。<br>        手机+充电器<br>        平板+充电器<br>        耳机+充电器<br>        电子手表（环）+充电器<br>        充电宝+充电器<br>        剃须刀+充电器<br>        自拍杆<br>        手机防水袋<br>        U盘+OTG线<br>        照摄像器材<br>    自行车（电瓶车）手机支架<br>    ｜ 如果要组电瓶车，强烈建议带上。<br>    💊健康相关<br>        创可贴<br>        驱蚊水<br>        止痒剂<br>        晕车药<br>        垃圾袋（防吐）<br>        肠胃药<br>        感冒药<br>        过敏药<br>        消炎药<br>        止痛药<br>        清凉油<br>        眼药水<br>        维生素<br>        跌打损伤药<br>        一次性碘伏棉棒<br>    💄化妆品类<br>        洗头膏<br>        护发素<br>        沐浴液<br>        洗面奶<br>        面膜<br>        水&#x2F;乳&#x2F;霜&#x2F;精华&#x2F;隔离……<br>        口红<br>        ……<br>    🔦日常用品<br>        行李箱&#x2F;背包<br>        防雨物品<br>            防水罩（袋）<br>            ｜ 突遇大雨，又未带伞，保护重要证件和电子产品。<br>            便携式轻薄雨衣<br>            雨伞<br>        防晒物品<br>            帽子<br>            墨镜<br>            面罩<br>            头巾<br>            冰袖<br>            防晒霜<br>            防晒衫<br>            晴雨伞<br>        梳子、镜子<br>        浴帽<br>        毛巾（浴巾）<br>        去毛刀<br>        牙膏+牙刷<br>        水杯（壶）<br>        纸巾、湿巾、卫生巾<br>        指甲刀<br>        U型枕 &#x2F;眼罩&#x2F;耳塞<br>        棉签<br>        （隐形）眼睛&#x2F;隐形眼镜护理液<br>        肥皂<br>        小型手电筒<br>        便携式轻便马扎<br>        晾衣绳<br>        ……<br>    🛍安全防护<br>        一次性马桶坐垫<br>        伍德氏紫光灯<br>        防偷拍探测仪<br>        安全带切割（破窗）器<br>        床单被罩<br>        烧水壶<br>        ……<br>    👕随身衣物<br>        泳衣&#x2F;泳裤&#x2F;泳镜<br>        👩女士<br>            内衣+内裤<br>            拖鞋+平底鞋<br>            高温地区<br>                裙子<br>                短裤<br>                T恤<br>            寒冷地区<br>                ……<br>        👨男士<br>            内裤+拖鞋<br>            拖鞋+运动鞋<br>            高温地区<br>                T恤<br>                短裤<br>            寒冷地区<br>                ……<br>📇CheckList  | 出发前检查单<br>    预约前往机场（火车站）的车<br>    设定次日出行起床闹钟（红眼航班）<br>    拔掉家用电器插头<br>    关闭强电箱电源回路（冰箱所在回路保持打开）<br>    关闭天然气入户阀门<br>    锁紧窗户（纱窗）、关窗帘<br>    根据需要室内留一盏灯<br>    清理冰箱内的剩菜剩饭<br>    清理并倒掉室内所有垃圾<br>    再次确认行李准备齐全<br>    再次确认手机、钱包、身份证、钥匙<br>    反锁入户门<br>📇CheckList  | ……检查单<br>📇CheckList  | 入住酒店检查单</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="mailto:banxiangrui@126.com">Rui's</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://ruilearning.github.io/%E6%97%85%E8%A1%8C-%E6%A8%A1%E7%89%88_%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF">https://ruilearning.github.io/%E6%97%85%E8%A1%8C-%E6%A8%A1%E7%89%88_%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://ruilearning.github.io" target="_blank">Rui's Zone</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E7%94%9F%E6%B4%BB/">生活</a></div><div class="post_share"><div class="social-share" data-image="/img/travel200.jpg" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-share.js/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/social-share.js/dist/js/social-share.min.js" defer></script></div></div><div class="post-reward"><div class="reward-button"><i class="fas fa-qrcode"></i> 打赏</div><div class="reward-main"><ul class="reward-all"><li class="reward-item"><a href="/img/wechatimg.png" target="_blank"><img class="post-qr-code-img" src= "/img/loading6.webp" data-lazy-src="/img/wechatimg.png" alt="wechat"/></a><div class="post-qr-code-desc">wechat</div></li><li class="reward-item"><a href="/img/alipayimg.png" target="_blank"><img class="post-qr-code-img" src= "/img/loading6.webp" data-lazy-src="/img/alipayimg.png" alt="alipay"/></a><div class="post-qr-code-desc">alipay</div></li></ul></div></div><nav class="pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/%E6%97%85%E8%A1%8C-%E5%A4%A7%E7%BA%B2"><img class="prev-cover" src= "/img/loading6.webp" data-lazy-src="/img/travel200.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of previous post"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">旅行-大纲</div></div></a></div><div class="next-post pull-right"><a href="/%E7%94%9F%E6%B4%BB-%E6%97%85%E6%B8%B8-%E5%B1%B1%E4%B8%9C-%E6%9E%A3%E5%BA%84"><img class="next-cover" src= "/img/loading6.webp" data-lazy-src="/img/travel100.jpg" onerror="onerror=null;src='/img/404.jpg'" alt="cover of next post"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">生活-旅游-山东-枣庄</div></div></a></div></nav><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/%E4%B8%B4%E6%B2%82%E7%9B%9B%E5%BA%84%E8%A1%97%E9%81%93%E5%AD%A6%E6%A0%A1" title="临沂盛庄街道学校"><img class="cover" src= "/img/loading6.webp" data-lazy-src="/img/af5c422da005d7ac4d61b321e3b0189c.jpeg" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-08-07</div><div class="title">临沂盛庄街道学校</div></div></a></div><div><a href="/CA-IELTS" title="CA-IELTS"><img class="cover" src= "/img/loading6.webp" data-lazy-src="/img/af5c422da005d7ac4d61b321e3b0189c.jpeg" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-07-31</div><div class="title">CA-IELTS</div></div></a></div><div><a href="/CA-ILAC" title="CA-ILAC"><img class="cover" src= "/img/loading6.webp" data-lazy-src="/img/af5c422da005d7ac4d61b321e3b0189c.jpeg" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-07-31</div><div class="title">CA-ILAC</div></div></a></div><div><a href="/CA-RunToC" title="CA-RunToC"><img class="cover" src= "/img/loading6.webp" data-lazy-src="/img/af5c422da005d7ac4d61b321e3b0189c.jpeg" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-07-31</div><div class="title">CA-RunToC</div></div></a></div><div><a href="/CA-%E5%AD%A6%E6%A0%A1" title="CA-学校"><img class="cover" src= "/img/loading6.webp" data-lazy-src="/img/af5c422da005d7ac4d61b321e3b0189c.jpeg" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-07-31</div><div class="title">CA-学校</div></div></a></div><div><a href="/CA-%E8%BA%AB%E4%BB%BD" title="CA-身份"><img class="cover" src= "/img/loading6.webp" data-lazy-src="/img/af5c422da005d7ac4d61b321e3b0189c.jpeg" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-07-31</div><div class="title">CA-身份</div></div></a></div></div></div><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="twikoo-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src= "/img/loading6.webp" data-lazy-src="/img/ruiruilaile_cycle120X120.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">Rui's</div><div class="author-info__description">bxrの学习空间</div></div><div class="card-info-data is-center"><div class="card-info-data-item"><a href="/archives/"><div class="headline">文章</div><div class="length-num">108</div></a></div><div class="card-info-data-item"><a href="/tags/"><div class="headline">标签</div><div class="length-num">18</div></a></div><div class="card-info-data-item"><a href="/categories/"><div class="headline">分类</div><div class="length-num">23</div></a></div></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">bxrの199学习空间😀💪</div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/%E7%94%9F%E6%B4%BB-%E6%97%85%E6%B8%B8-%E5%B1%B1%E4%B8%9C-%E9%9D%92%E5%B2%9B" title="生活-旅游-山东-青岛"><img src= "/img/loading6.webp" data-lazy-src="/img/travel100.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="生活-旅游-山东-青岛"/></a><div class="content"><a class="title" href="/%E7%94%9F%E6%B4%BB-%E6%97%85%E6%B8%B8-%E5%B1%B1%E4%B8%9C-%E9%9D%92%E5%B2%9B" title="生活-旅游-山东-青岛">生活-旅游-山东-青岛</a><time datetime="2024-06-27T08:54:44.276Z" title="发表于 2024-06-27 16:54:44">2024-06-27</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/%E7%94%9F%E6%B4%BB-%E6%97%85%E6%B8%B8-%E6%B9%96%E5%8D%97-%E5%BC%A0%E5%AE%B6%E7%95%8C" title="生活-旅游-湖南-张家界"><img src= "/img/loading6.webp" data-lazy-src="/img/travel100.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="生活-旅游-湖南-张家界"/></a><div class="content"><a class="title" href="/%E7%94%9F%E6%B4%BB-%E6%97%85%E6%B8%B8-%E6%B9%96%E5%8D%97-%E5%BC%A0%E5%AE%B6%E7%95%8C" title="生活-旅游-湖南-张家界">生活-旅游-湖南-张家界</a><time datetime="2024-06-27T08:54:44.275Z" title="发表于 2024-06-27 16:54:44">2024-06-27</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/%E7%94%9F%E6%B4%BB-%E6%97%85%E6%B8%B8-%E5%B1%B1%E4%B8%9C-%E6%9B%B2%E9%98%9C" title="生活-旅游-山东-曲阜"><img src= "/img/loading6.webp" data-lazy-src="/img/travel100.jpg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="生活-旅游-山东-曲阜"/></a><div class="content"><a class="title" href="/%E7%94%9F%E6%B4%BB-%E6%97%85%E6%B8%B8-%E5%B1%B1%E4%B8%9C-%E6%9B%B2%E9%98%9C" title="生活-旅游-山东-曲阜">生活-旅游-山东-曲阜</a><time datetime="2024-06-27T08:54:44.275Z" title="发表于 2024-06-27 16:54:44">2024-06-27</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/%E5%81%A5%E5%BA%B7_%E5%87%8F%E8%82%A5" title="Fit"><img src= "/img/loading6.webp" data-lazy-src="/img/ae3d6756795a474e0e4bec39310ab6.jpeg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="Fit"/></a><div class="content"><a class="title" href="/%E5%81%A5%E5%BA%B7_%E5%87%8F%E8%82%A5" title="Fit">Fit</a><time datetime="2024-03-02T02:35:35.000Z" title="发表于 2024-03-02 10:35:35">2024-03-02</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/%E5%81%A5%E5%BA%B7_%E7%97%9B%E9%A3%8E" title="痛风"><img src= "/img/loading6.webp" data-lazy-src="/img/ae3d6756795a474e0e4bec39310ab6.jpeg" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="痛风"/></a><div class="content"><a class="title" href="/%E5%81%A5%E5%BA%B7_%E7%97%9B%E9%A3%8E" title="痛风">痛风</a><time datetime="2024-03-01T02:35:35.000Z" title="发表于 2024-03-01 10:35:35">2024-03-01</time></div></div></div></div></div></div></main><footer id="footer" style="background-image: url('/img/travel200.jpg')"><div id="footer-wrap"><div class="copyright">&copy;2018 - 2024 By Rui's</div><div class="footer_custom_text">Hi, welcome to my <a href="https://ruilearning.github.io/">blog</a>!</div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="translateLink" type="button" title="简繁转换">繁</button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">本地搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div></div></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="/js/tw_cn.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.js"></script><script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload/dist/lazyload.iife.min.js"></script><script src="/js/search/local-search.js"></script><script>var preloader = {
+  endLoading: () => {
+    document.body.style.overflow = 'auto';
+    document.getElementById('loading-box').classList.add("loaded")
+  },
+  initLoading: () => {
+    document.body.style.overflow = '';
+    document.getElementById('loading-box').classList.remove("loaded")
+
+  }
+}
+window.addEventListener('load',preloader.endLoading())</script><div class="js-pjax"><script>if (!window.MathJax) {
+  window.MathJax = {
+    tex: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"]],
+      tags: 'ams'
+    },
+    chtml: {
+      scale: 1.2
+    },
+    options: {
+      renderActions: {
+        findScript: [10, doc => {
+          for (const node of document.querySelectorAll('script[type^="math/tex"]')) {
+            const display = !!node.type.match(/; *mode=display/)
+            const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display)
+            const text = document.createTextNode('')
+            node.parentNode.replaceChild(text, node)
+            math.start = {node: text, delim: '', n: 0}
+            math.end = {node: text, delim: '', n: 0}
+            doc.math.push(math)
+          }
+        }, ''],
+        insertScript: [200, () => {
+          document.querySelectorAll('mjx-container:not\([display]\)').forEach(node => {
+            const target = node.parentNode
+            if (target.nodeName.toLowerCase() === 'li') {
+              target.parentNode.classList.add('has-jax')
+            } else {
+              target.classList.add('has-jax')
+            }
+          });
+        }, '', false]
+      }
+    }
+  }
+  
+  const script = document.createElement('script')
+  script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
+  script.id = 'MathJax-script'
+  script.async = true
+  document.head.appendChild(script)
+} else {
+  MathJax.startup.document.state(0)
+  MathJax.texReset()
+  MathJax.typeset()
+}</script><script>(() => {
+  const $mermaidWrap = document.querySelectorAll('#article-container .mermaid-wrap')
+  if ($mermaidWrap.length) {
+    window.runMermaid = () => {
+      window.loadMermaid = true
+      const theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default'
+
+      Array.from($mermaidWrap).forEach((item, index) => {
+        const mermaidSrc = item.firstElementChild
+        const mermaidThemeConfig = '%%{init:{ \'theme\':\'' + theme + '\'}}%%\n'
+        const mermaidID = 'mermaid-' + index
+        const mermaidDefinition = mermaidThemeConfig + mermaidSrc.textContent
+        mermaid.mermaidAPI.render(mermaidID, mermaidDefinition, (svgCode) => {
+          mermaidSrc.insertAdjacentHTML('afterend', svgCode)
+        })
+      })
+    }
+
+    const loadMermaid = () => {
+      window.loadMermaid ? runMermaid() : getScript('https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js').then(runMermaid)
+    }
+
+    window.pjax ? loadMermaid() : document.addEventListener('DOMContentLoaded', loadMermaid)
+  }
+})()</script><script>(()=>{
+  const init = () => {
+    twikoo.init(Object.assign({
+      el: '#twikoo-wrap',
+      envId: 'https://twikoo-api-eight-lyart.vercel.app',
+      region: '',
+      onCommentLoaded: function () {
+        btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.vemoji)'))
+      }
+    }, null))
+  }
+
+  const getCount = () => {
+    twikoo.getCommentsCount({
+      envId: 'https://twikoo-api-eight-lyart.vercel.app',
+      region: '',
+      urls: [window.location.pathname],
+      includeReply: false
+    }).then(function (res) {
+      document.getElementById('twikoo-count').innerText = res[0].count
+    }).catch(function (err) {
+      console.error(err);
+    });
+  }
+
+  const runFn = () => {
+    init()
+    
+  }
+
+  const loadTwikoo = () => {
+    if (typeof twikoo === 'object') {
+      setTimeout(runFn,0)
+      return
+    } 
+    getScript('https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js').then(runFn)
+  }
+
+  if ('Twikoo' === 'Twikoo' || !false) {
+    if (false) btf.loadComment(document.getElementById('twikoo-wrap'), loadTwikoo)
+    else loadTwikoo()
+  } else {
+    window.loadOtherComment = () => {
+      loadTwikoo()
+    }
+  }
+})()</script></div><script>window.addEventListener('load', () => {
+  const changeContent = (content) => {
+    if (content === '') return content
+
+    content = content.replace(/<img.*?src="(.*?)"?[^\>]+>/ig, '[图片]') // replace image link
+    content = content.replace(/<a[^>]+?href=["']?([^"']+)["']?[^>]*>([^<]+)<\/a>/gi, '[链接]') // replace url
+    content = content.replace(/<pre><code>.*?<\/pre>/gi, '[代码]') // replace code
+    content = content.replace(/<[^>]+>/g,"") // remove html tag
+
+    if (content.length > 150) {
+      content = content.substring(0,150) + '...'
+    }
+    return content
+  }
+
+  const getComment = () => {
+    const runTwikoo = () => {
+      twikoo.getRecentComments({
+        envId: 'https://twikoo-api-eight-lyart.vercel.app',
+        region: '',
+        pageSize: 6,
+        includeReply: true
+      }).then(function (res) {
+        const twikooArray = res.map(e => {
+          return {
+            'content': changeContent(e.comment),
+            'avatar': e.avatar,
+            'nick': e.nick,
+            'url': e.url + '#' + e.id,
+            'date': new Date(e.created).toISOString()
+          }
+        })
+
+        saveToLocal.set('twikoo-newest-comments', JSON.stringify(twikooArray), 10/(60*24))
+        generateHtml(twikooArray)
+      }).catch(function (err) {
+        const $dom = document.querySelector('#card-newest-comments .aside-list')
+        $dom.innerHTML= "无法获取评论，请确认相关配置是否正确"
+      })
+    }
+
+    if (typeof twikoo === 'object') {
+      runTwikoo()
+    } else {
+      getScript('https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js').then(runTwikoo)
+    }
+  }
+
+  const generateHtml = array => {
+    let result = ''
+
+    if (array.length) {
+      for (let i = 0; i < array.length; i++) {
+        result += '<div class=\'aside-list-item\'>'
+
+        if (true) {
+          const name = 'data-lazy-src'
+          result += `<a href='${array[i].url}' class='thumbnail'><img ${name}='${array[i].avatar}' alt='${array[i].nick}'></a>`
+        }
+        
+        result += `<div class='content'>
+        <a class='comment' href='${array[i].url}' title='${array[i].content}'>${array[i].content}</a>
+        <div class='name'><span>${array[i].nick} / </span><time datetime="${array[i].date}">${btf.diffDate(array[i].date, true)}</time></div>
+        </div></div>`
+      }
+    } else {
+      result += '没有评论'
+    }
+
+    let $dom = document.querySelector('#card-newest-comments .aside-list')
+    $dom.innerHTML= result
+    window.lazyLoadInstance && window.lazyLoadInstance.update()
+    window.pjax && window.pjax.refresh($dom)
+  }
+
+  const newestCommentInit = () => {
+    if (document.querySelector('#card-newest-comments .aside-list')) {
+      const data = saveToLocal.get('twikoo-newest-comments')
+      if (data) {
+        generateHtml(JSON.parse(data))
+      } else {
+        getComment()
+      }
+    }
+  }
+
+  newestCommentInit()
+  document.addEventListener('pjax:complete', newestCommentInit)
+})</script><div class="aplayer no-destroy" data-id="112875926" data-server="netease" data-autoplay="false" data-type="playlist" data-fixed="true" data-order="random"> </div><canvas class="fireworks" mobile="false"></canvas><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/fireworks.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/gh/metowolf/MetingJS@1.2/dist/Meting.min.js"></script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = ["title","#config-diff","#body-wrap","#rightside-config-hide","#rightside-config-show",".js-pjax"]
+
+var pjax = new Pjax({
+  elements: 'a:not([target="_blank"])',
+  selectors: pjaxSelectors,
+  cacheBust: false,
+  analytics: false,
+  scrollRestoration: false
+})
+
+document.addEventListener('pjax:send', function () {
+
+  // removeEventListener scroll 
+  window.tocScrollFn && window.removeEventListener('scroll', window.tocScrollFn)
+  window.scrollCollect && window.removeEventListener('scroll', scrollCollect)
+
+  typeof preloader === 'object' && preloader.initLoading()
+  document.getElementById('rightside').style.cssText = "opacity: ''; transform: ''"
+  
+  if (window.aplayers) {
+    for (let i = 0; i < window.aplayers.length; i++) {
+      if (!window.aplayers[i].options.fixed) {
+        window.aplayers[i].destroy()
+      }
+    }
+  }
+
+  typeof typed === 'object' && typed.destroy()
+
+  //reset readmode
+  const $bodyClassList = document.body.classList
+  $bodyClassList.contains('read-mode') && $bodyClassList.remove('read-mode')
+
+})
+
+document.addEventListener('pjax:complete', function () {
+  window.refreshFn()
+
+  document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+  })
+
+  GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+  typeof chatBtnFn === 'function' && chatBtnFn()
+  typeof panguInit === 'function' && panguInit()
+
+  // google analytics
+  typeof gtag === 'function' && gtag('config', '', {'page_path': window.location.pathname});
+
+  // baidu analytics
+  typeof _hmt === 'object' && _hmt.push(['_trackPageview',window.location.pathname]);
+
+  typeof loadMeting === 'function' && document.getElementsByClassName('aplayer').length && loadMeting()
+
+  // prismjs
+  typeof Prism === 'object' && Prism.highlightAll()
+
+  typeof preloader === 'object' && preloader.endLoading()
+})
+
+document.addEventListener('pjax:error', (e) => {
+  if (e.request.status === 404) {
+    pjax.loadUrl('/404.html')
+  }
+})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","tagMode":false,"debug":false,"model":{"jsonPath":"/live2dw/assets/tororo.model.json"},"display":{"position":"right","width":150,"height":300},"mobile":{"show":true},"react":{"opacity":0.9},"log":false});</script></body></html>
